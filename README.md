@@ -70,4 +70,4 @@ Jansson, Christie. (2025). *Probing Vacuum-Induced Clock Drifts via Quantum Metr
 For questions or collaboration, contact Christie Jansson at christiejansson@hotmail.com.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPU 3-0 License - see the [LICENSE](LICENSE) file for details.
